@@ -4,6 +4,8 @@
 
 A PyQt5-based application for combining PDF pages and adding direct text overlays. This tool allows you to load PDF files, view pages as thumbnails, add and format text annotations directly on PDF pages, and export a new PDF with the modifications merged.
 
+EXE Download: https://github.com/Kavex/PDF-Combine/releases
+
 ## Features
 
 - **Add PDF Files:** Load one or more PDFs; each page is converted to an image and displayed as a thumbnail.
